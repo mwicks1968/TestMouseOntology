@@ -229,7 +229,7 @@ comment: order=28 for EMAPA:25765\norder=1 for EMAPA:31859
 
 [Term]
 id: EMAPA:16035
-name: zona pellucida
+name: THE zona pellucida
 namespace: anatomical_structure
 relationship: part_of EMAPA:25765
 relationship: starts_at TS01

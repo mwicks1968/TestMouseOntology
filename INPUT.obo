@@ -235,7 +235,6 @@ relationship: part_of EMAPA:25765
 relationship: starts_at TS01
 relationship: ends_at TS03
 comment: order=33 for EMAPA:25765
-is_obsolete: true
 
 [Term]
 id: EMAPA:16036
